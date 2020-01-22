@@ -35,14 +35,14 @@ Mollys_Car.drive("swooooosh")
 
 Mollys_Car.turn("south")
 
-# 8. Override all three of those methods on some of the vehicles. For example, the stop() method for a plane would be to output the message "The white Cessna rolls to a stop after rolling a mile down the runway."
+# 8. FINISHED Override all three of those methods on some of the vehicles. For example, the stop() method for a plane would be to output the message "The white Cessna rolls to a stop after rolling a mile down the runway."
 
 Josephs_Car.stop()
 Mollys_Car.stop()
 Annies_Car.stop()
 
 
-# Make your vehicle instances perform all three behaviors.
+# 9. FINISHED Make your vehicle instances perform all three behaviors.
 
 Mollys_Car.inMotion()
 
