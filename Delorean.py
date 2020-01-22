@@ -11,4 +11,6 @@ class Delorean(Vehicle):
     def stop(self):
         print(f"The Delorean stops in 1985.")
 
-    def inMotion(self, vehicle):
+    def inMotion(self):
+        self.drive("vroom"), self.stop()
+        

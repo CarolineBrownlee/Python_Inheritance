@@ -44,3 +44,7 @@ Annies_Car.stop()
 
 # Make your vehicle instances perform all three behaviors.
 
+Mollys_Car.inMotion()
+
+
+
