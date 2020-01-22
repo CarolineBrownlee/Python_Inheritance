@@ -31,8 +31,16 @@ Moms_Car = StationWagon("purple", 6, "34 ft3", "SUV")
 Mollys_Car.drive("swooooosh")
 # Annies_Car.drive()
 
-# 7. Create a turn(self, direction) method, and a stop(self) method on Vehicle. Define a basic implementation of each.
+# 7. FINISHED Create a turn(self, direction) method, and a stop(self) method on Vehicle. Define a basic implementation of each.
 
-# Override all three of those methods on some of the vehicles. For example, the stop() method for a plane would be to output the message "The white Cessna rolls to a stop after rolling a mile down the runway."
+Mollys_Car.turn("south")
+
+# 8. Override all three of those methods on some of the vehicles. For example, the stop() method for a plane would be to output the message "The white Cessna rolls to a stop after rolling a mile down the runway."
+
+Josephs_Car.stop()
+Mollys_Car.stop()
+Annies_Car.stop()
+
 
 # Make your vehicle instances perform all three behaviors.
+

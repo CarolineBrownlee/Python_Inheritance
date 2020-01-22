@@ -7,3 +7,6 @@ class Rocket(Vehicle):
 
     def drive(self):
         print(f"The {self.color} rocket sounds like thunder and smells like fire!")
+
+    def stop(self):
+        print(f"The rocket crash lands on the moon.")

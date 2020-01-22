@@ -7,3 +7,8 @@ class Delorean(Vehicle):
     
     def drive(self, sound):
         print(f"The {self.color} Delorean goes {sound}.")
+    
+    def stop(self):
+        print(f"The Delorean stops in 1985.")
+
+    def inMotion(self, vehicle):
